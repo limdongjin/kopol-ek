@@ -51,7 +51,7 @@ kibana # 브라우저로 127.0.0.1:5601
 
 ```
 # dump파일 다운로드
-https://raw.githubusercontent.com/limdongjin/kopol-ek/master/dump00.json
+wget https://raw.githubusercontent.com/limdongjin/kopol-ek/master/dump00.json
 
 # elasticdump 설치
 npm install elasticdump -g
