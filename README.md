@@ -1,5 +1,9 @@
 # kopol-ek
-20대 국회 법안 (  ~ 의안번호2013519 ) 덤프 데이터 와 ElasticSearch/Kibana 연결
+20대 국회 법안 (  ~ 의안번호2013519 ) 덤프 데이터를 ElasticSearch/Kibana에 넣어서 법안 분석 환경 구축하기. 
+
+## Demo Image
+
+![](/images/kibana-screen.PNG)
 
 ## Prerequisites
 
