@@ -3,7 +3,7 @@
 
 ## Demo Image
 
-![](/images/kibana-screen.PNG)
+![](/images/kibana-screen.png)
 
 ## Prerequisites
 
